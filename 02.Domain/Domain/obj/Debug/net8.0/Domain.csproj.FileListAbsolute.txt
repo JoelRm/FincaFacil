@@ -1,0 +1,11 @@
+C:\Users\Joel Rm\Documents\Documento FINKA\MIddleWare\02.Domain\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Joel Rm\Documents\Documento FINKA\MIddleWare\02.Domain\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Joel Rm\Documents\Documento FINKA\MIddleWare\02.Domain\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Joel Rm\Documents\Documento FINKA\MIddleWare\02.Domain\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Rm\Documents\Documento FINKA\MIddleWare\02.Domain\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Joel Rm\Documents\Documento FINKA\MIddleWare\02.Domain\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Joel Rm\Documents\Documento FINKA\MIddleWare\02.Domain\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Joel Rm\Documents\Documento FINKA\MIddleWare\02.Domain\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Joel Rm\Documents\Documento FINKA\MIddleWare\02.Domain\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Joel Rm\Documents\Documento FINKA\MIddleWare\02.Domain\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Joel Rm\Documents\Documento FINKA\MIddleWare\02.Domain\Domain\obj\Debug\net8.0\ref\Domain.dll

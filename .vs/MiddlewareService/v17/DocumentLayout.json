@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joel Rm\\Documents\\Documento FINKA\\MIddleWare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61F46E45-E5DB-4026-805A-E6D48BB6FF07}|03.Application\\Application\\Application.csproj|c:\\users\\joel rm\\documents\\documento finka\\middleware\\03.application\\application\\mappings\\bankprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F46E45-E5DB-4026-805A-E6D48BB6FF07}|03.Application\\Application\\Application.csproj|solutionrelative:03.application\\application\\mappings\\bankprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F46E45-E5DB-4026-805A-E6D48BB6FF07}|03.Application\\Application\\Application.csproj|c:\\users\\joel rm\\documents\\documento finka\\middleware\\03.application\\application\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F46E45-E5DB-4026-805A-E6D48BB6FF07}|03.Application\\Application\\Application.csproj|solutionrelative:03.application\\application\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C25F59-F6E6-4C74-9179-C38B49AC0B3E}|02.Domain\\Domain\\Domain.csproj|c:\\users\\joel rm\\documents\\documento finka\\middleware\\02.domain\\domain\\interfaces\\isearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C25F59-F6E6-4C74-9179-C38B49AC0B3E}|02.Domain\\Domain\\Domain.csproj|solutionrelative:02.domain\\domain\\interfaces\\isearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB811AEF-02DD-4B13-BE7F-AFBC87F09067}|04.Infrastructure\\Infrastructure\\Infrastructure.csproj|c:\\users\\joel rm\\documents\\documento finka\\middleware\\04.infrastructure\\infrastructure\\httpclients\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB811AEF-02DD-4B13-BE7F-AFBC87F09067}|04.Infrastructure\\Infrastructure\\Infrastructure.csproj|solutionrelative:04.infrastructure\\infrastructure\\httpclients\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C25F59-F6E6-4C74-9179-C38B49AC0B3E}|02.Domain\\Domain\\Domain.csproj|c:\\users\\joel rm\\documents\\documento finka\\middleware\\02.domain\\domain\\entities\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C25F59-F6E6-4C74-9179-C38B49AC0B3E}|02.Domain\\Domain\\Domain.csproj|solutionrelative:02.domain\\domain\\entities\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C25F59-F6E6-4C74-9179-C38B49AC0B3E}|02.Domain\\Domain\\Domain.csproj|c:\\users\\joel rm\\documents\\documento finka\\middleware\\02.domain\\domain\\dtos\\bankdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C25F59-F6E6-4C74-9179-C38B49AC0B3E}|02.Domain\\Domain\\Domain.csproj|solutionrelative:02.domain\\domain\\dtos\\bankdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Joel Rm\\Documents\\Documento FINKA\\MIddleWare\\03.Application\\Application\\Mappings\\BankProfile.cs",
+              "RelativeDocumentMoniker": "03.Application\\Application\\Mappings\\BankProfile.cs",
+              "ToolTip": "C:\\Users\\Joel Rm\\Documents\\Documento FINKA\\MIddleWare\\03.Application\\Application\\Mappings\\BankProfile.cs",
+              "RelativeToolTip": "03.Application\\Application\\Mappings\\BankProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T02:27:10.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISearchService.cs",
+              "DocumentMoniker": "C:\\Users\\Joel Rm\\Documents\\Documento FINKA\\MIddleWare\\02.Domain\\Domain\\Interfaces\\ISearchService.cs",
+              "RelativeDocumentMoniker": "02.Domain\\Domain\\Interfaces\\ISearchService.cs",
+              "ToolTip": "C:\\Users\\Joel Rm\\Documents\\Documento FINKA\\MIddleWare\\02.Domain\\Domain\\Interfaces\\ISearchService.cs",
+              "RelativeToolTip": "02.Domain\\Domain\\Interfaces\\ISearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T02:26:39.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchService.cs",
+              "DocumentMoniker": "C:\\Users\\Joel Rm\\Documents\\Documento FINKA\\MIddleWare\\04.Infrastructure\\Infrastructure\\HttpClients\\SearchService.cs",
+              "RelativeDocumentMoniker": "04.Infrastructure\\Infrastructure\\HttpClients\\SearchService.cs",
+              "ToolTip": "C:\\Users\\Joel Rm\\Documents\\Documento FINKA\\MIddleWare\\04.Infrastructure\\Infrastructure\\HttpClients\\SearchService.cs",
+              "RelativeToolTip": "04.Infrastructure\\Infrastructure\\HttpClients\\SearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T02:25:55.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Joel Rm\\Documents\\Documento FINKA\\MIddleWare\\03.Application\\Application\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "03.Application\\Application\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\Joel Rm\\Documents\\Documento FINKA\\MIddleWare\\03.Application\\Application\\Services\\ApiService.cs",
+              "RelativeToolTip": "03.Application\\Application\\Services\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T02:25:49.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankDto.cs",
+              "DocumentMoniker": "C:\\Users\\Joel Rm\\Documents\\Documento FINKA\\MIddleWare\\02.Domain\\Domain\\Dtos\\BankDto.cs",
+              "RelativeDocumentMoniker": "02.Domain\\Domain\\Dtos\\BankDto.cs",
+              "ToolTip": "C:\\Users\\Joel Rm\\Documents\\Documento FINKA\\MIddleWare\\02.Domain\\Domain\\Dtos\\BankDto.cs",
+              "RelativeToolTip": "02.Domain\\Domain\\Dtos\\BankDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T02:24:36.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\Joel Rm\\Documents\\Documento FINKA\\MIddleWare\\02.Domain\\Domain\\Entities\\Bank.cs",
+              "RelativeDocumentMoniker": "02.Domain\\Domain\\Entities\\Bank.cs",
+              "ToolTip": "C:\\Users\\Joel Rm\\Documents\\Documento FINKA\\MIddleWare\\02.Domain\\Domain\\Entities\\Bank.cs",
+              "RelativeToolTip": "02.Domain\\Domain\\Entities\\Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T02:24:18.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

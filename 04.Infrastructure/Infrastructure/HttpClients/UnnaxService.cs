@@ -37,8 +37,6 @@ namespace MiddlewareService.Infrastructure.HttpClients{
                 return Id;
             }
         }
-
-
         public async Task<ResponseBase<Unnax>> LoginAsync(string token, int Id)
         {
             _httpClient.DefaultRequestHeaders.Add("Timezone", "GMT-5");

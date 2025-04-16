@@ -3,10 +3,10 @@ using System.Text.Json;
 namespace MiddlewareService.Infrastructure.Helpers{
     public static class Helper{
         public static string urlPuisearch = "puisearch";
+
         public static string modelProvince  = "vlupmasterprovinces";
         public static string fieldProvince  = "countryid";
         public static string dataProvince   = "69";
-
 
         public static string modelBank  = "vlupmasterbank";
         public static string fieldBank  = "eq";
@@ -14,6 +14,11 @@ namespace MiddlewareService.Infrastructure.Helpers{
 
         public static string unnaxInsert = "unnaxbanktoken/insert";
         public static string unnaxLogin = "unnax/login?id=";
+
+        public static string modelBankMovement  = "bankingrule43movement";
+        public static string fieldBankMovement  = "communityid";
+        public static string dataBankMovement   = "645";
+
         public static string ApplyJsonTemplate(string template, Dictionary<string, object> replacements)
         {
             foreach (var kvp in replacements)

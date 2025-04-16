@@ -2,6 +2,6 @@ namespace MiddlewareService.Domain.Interfaces
 {
     public interface IAuthenticationService
     {
-        Task<string> GetTokenAsync();
+        Task<string> GetTokenAsync(string usr, string pwd);
     }
 }

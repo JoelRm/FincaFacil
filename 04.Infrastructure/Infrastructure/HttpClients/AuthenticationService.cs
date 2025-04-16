@@ -14,14 +14,14 @@ namespace MiddlewareService.Infrastructure.HttpClients
             _httpClient = httpClient;
         }
         
-        public async Task<string> GetTokenAsync()
+        public async Task<string> GetTokenAsync(string usr, string pwd)
         {
             var url = "https://pre-www.afinkia.com/afinkia-api/login/signin";
 
             LoginRequest request = new LoginRequest()
             {
-                usr = "ffldev.admin",
-                password = "24^lD5f%DG)5",
+                usr = usr,
+                password = pwd,
                 persistent = false,
                 client = "FFL"
             };

@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using MiddlewareService.Application.Services;
 using MiddlewareService.Domain.Models.Request;
@@ -6,6 +7,8 @@ namespace MiddlewareService.Controllers{
 
     [ApiController]
 [Route("api/[controller]")]
+[EnableCors("AllowLocalhost3000")]
+
 public class BankController : ControllerBase
 {
     private readonly ApiService _service;

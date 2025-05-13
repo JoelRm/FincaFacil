@@ -6,12 +6,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowLocalhost3000", policy =>
+    options.AddPolicy("AllowLocalhost", policy =>
     {
-        policy.WithOrigins("http://localhost:3000")
-              .AllowAnyMethod()
+        policy.WithOrigins("http://localhost:5173")
               .AllowAnyHeader()
-              .AllowCredentials();
+              .AllowAnyMethod();
     });
 });
 
@@ -40,7 +39,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.UseCors("AllowLocalhost3000");
+app.UseCors("AllowLocalhost");
 
 app.UseAuthorization();
 

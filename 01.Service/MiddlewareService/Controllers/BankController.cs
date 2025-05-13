@@ -5,9 +5,9 @@ using MiddlewareService.Domain.Models.Request;
 
 namespace MiddlewareService.Controllers{
 
-    [ApiController]
+[ApiController]
 [Route("api/[controller]")]
-[EnableCors("AllowLocalhost3000")]
+[EnableCors("AllowLocalhost")]
 
 public class BankController : ControllerBase
 {
